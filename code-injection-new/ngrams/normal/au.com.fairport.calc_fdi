@@ -1,0 +1,14 @@
+Program VariableDeclaration VariableDeclarator
+VariableDeclaration VariableDeclarator Literal
+VariableDeclarator Literal Program
+Literal Program VariableDeclaration
+Program VariableDeclaration VariableDeclarator
+VariableDeclaration VariableDeclarator Identifier
+VariableDeclarator Identifier Program
+Identifier Program VariableDeclaration
+Program VariableDeclaration VariableDeclarator
+VariableDeclaration VariableDeclarator Literal
+VariableDeclarator Literal Program
+Literal Program VariableDeclaration
+Program VariableDeclaration VariableDeclarator
+VariableDeclaration VariableDeclarator Identifier

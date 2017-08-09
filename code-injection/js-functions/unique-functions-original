@@ -1,0 +1,19 @@
+.after(
+.append(
+.before(
+.html(
+.innerHTML
+.outerHTML
+.prepend(
+.replaceAll(
+.replaceWith(
+batterystatus batterycritical batterylow
+bluetoothSerial.
+connectivity.
+cordova.file.
+cordova.plugins.barcodeScanner.
+document.write(
+document.writeln(
+navigator.contacts.
+nfc.
+sms.send(
